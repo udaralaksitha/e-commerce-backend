@@ -1,0 +1,8 @@
+version : 0.1
+
+endpoints :
+  name : Ecommerce Service
+  port: 5000
+  type: Ecommerce
+  Visibility: Public
+  context :/ecommerce
